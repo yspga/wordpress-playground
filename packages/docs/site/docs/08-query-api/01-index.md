@@ -42,7 +42,7 @@ You can go ahead and try it out. The Playground will automatically install the t
 For example, the following code embeds a Playground with a preinstalled Gutenberg plugin, and opens the post editor:
 
 ```html
-<iframe src="https://playground.wordpress.net/?plugin=gutenberg&url=/wp-admin/post-new.php&mode=seamless"> </iframe>
+<iframe src="https://playground.wordpress.net/?plugin=elementor&url=/wp-admin/post-new.php&mode=seamless"> </iframe>
 ```
 
 :::info CORS policy
